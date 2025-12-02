@@ -1,0 +1,9 @@
+{
+  "name": "smart-shoppinh-tool",
+  "private": true,
+  "scripts": {
+    "start": "cd web && npm run dev",
+    "build": "cd web && npm run build",
+    "serve": "cd web && npm run preview"
+  }
+}
